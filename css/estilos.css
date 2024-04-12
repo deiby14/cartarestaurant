@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d9af82; /* Marrón suave */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.titulo-seccion {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.table th, .table td {
+    border: 4px solid #201f1f; /* Añade bordes a las celdas */
+    font-size: 14px;
+}
+
+header {
+    background-color: #343a40; /* Color de fondo del encabezado */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    height: 100vh;
+    background-image: url("../imagenes/cartaa.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+/* Eliminamos la regla de borde redondeado de la tabla */
+.container table {
+    /* border-radius: 10px; Elimina esta línea */
+    overflow: hidden;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    width: 33%;
+    border-radius: 10px; /* Agregamos la regla de borde redondeado aquí */
+}
+
+
+
+/* Estilos para separar el icono del nombre del plato */
+.plato-item {
+    display: flex;
+    align-items: center;
+}
+
+.icono-gluten {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px; /* Ajusta el margen según tu preferencia */
+}
+
+.nombre-plato {
+    margin-right: 10px; /* Ajusta el margen según tu preferencia */
+}
+/* CSS para el footer */
+/* CSS para el footer */
+/* CSS para el footer */
+footer {
+    background-color: rgb(12, 12, 12); /* Color de fondo del footer */
+    color: white; /* Color del texto en el footer */
+    padding: 20px; /* Espaciado interno del footer */
+    text-align: center; /* Alineación del texto en el centro */
+    position: fixed; /* Fijar el footer en la parte inferior */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+@media (max-width: 600px) {
+    th, td {
+        display: block;
+    }
+}

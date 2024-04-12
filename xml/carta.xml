@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <plato tipo="entrante">
+    <nombre>Founde de queso</nombre>
+    <precio>10 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Ensalada de col, zanahoria y frutos secos</nombre>
+    <precio>3 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas> 
+    <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Pimiento relleno con huevo</nombre>
+    <precio>7 €</precio>    
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="entrante">
+    <nombre>Pulpo a la brasa</nombre>
+    <precio>14 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="primero">
+    <nombre>tortilla</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="primero">
+    <nombre>pimenton</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="primero">
+    <nombre>sandia</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  
+   <plato tipo="segundo">
+    <nombre>Rillette de sardinas</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Rillette de sardinas</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Rillette de sardinas</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Rillette de sardinas</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Rillette de sardinas</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Rillette de sardinas</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Rillette de sardinas</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Rillette de sardinas</nombre>
+    <precio>12 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Coca-Cola</nombre>
+    <precio>2,75€</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Fanta</nombre>
+    <precio>2,75€</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Clara</nombre>
+    <precio>3 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Estrella Galicia</nombre>
+    <precio>3,25€</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Agua</nombre>
+    <precio>2 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Yogurt</nombre>
+    <precio>2,50 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Helado</nombre>
+    <precio>3,10 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Natillas</nombre>
+    <precio>2,50 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Flan</nombre>
+    <precio>3,10 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Fruta</nombre>
+    <precio>1,80 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Café</nombre>
+    <precio>1,60 €</precio>
+    <descripcion></descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+</menu>

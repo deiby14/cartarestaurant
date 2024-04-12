@@ -1,210 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- entrante -->
 <menu>
   <plato tipo="entrante">
     <nombre>Founde de queso</nombre>
     <precio>10 €</precio>
-    <descripcion></descripcion>
+    <descripcion>Un manjar exquisito de queso fundido de cada region del pais</descripcion>
     <caracteristicas>
       <item>Con gluten</item>
     </caracteristicas>
   </plato>
   <plato tipo="entrante">
     <nombre>Ensalada de col, zanahoria y frutos secos</nombre>
-    <precio>3 €</precio>
-    <descripcion></descripcion>
+    <precio>8 €</precio>
+    <descripcion>Una ensalda bastante elaborada conformada por las 4 estaciones</descripcion>
     <caracteristicas> 
     <item>Con gluten</item>
     </caracteristicas>
   </plato>
   <plato tipo="entrante">
     <nombre>Pimiento relleno con huevo</nombre>
-    <precio>7 €</precio>    
-    <descripcion></descripcion>
+    <precio>8 €</precio>    
+    <descripcion>Un pimiento clase profundamente relleno con la clara derritiendose</descripcion>
     <caracteristicas>
       <item>Con gluten</item>
     </caracteristicas>
   </plato>
   <plato tipo="entrante">
-    <nombre>Pulpo a la brasa</nombre>
-    <precio>14 €</precio>
-    <descripcion></descripcion>
+    <nombre>Levroux</nombre>
+    <precio>12 €</precio>
+    <descripcion>Trata de un pan exquisito con una pizca de picante </descripcion>
     <caracteristicas>
       <item>Con gluten</item>
     </caracteristicas>
   </plato>
+  <!-- primero -->
   <plato tipo="primero">
-    <nombre>tortilla</nombre>
+    <nombre>Pimientos salteados</nombre>
     <precio>12 €</precio>
-    <descripcion></descripcion>
+    <descripcion>Los claisicos pimientos pero puede que piquen un poco</descripcion>
     <caracteristicas>
       <item>Con gluten</item>
     </caracteristicas>
   </plato>
   <plato tipo="primero">
     <nombre>pimenton</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
+    <precio>10 €</precio>
+    <descripcion>Pimenton al gusto propio acompañado con nuestra salsa especial</descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="primero">
+    <nombre>Sopa de cebolla</nombre>
+    <precio>15 €</precio>
+    <descripcion>Sopa bien elaborada que te traera recuerdos de la infencia</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
   <plato tipo="primero">
-    <nombre>sandia</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
+    <nombre>Dorada</nombre>
+    <precio>15 €</precio>
+    <descripcion>La gran dorada acompañada con la ensalda de la casa</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
-  
-   <plato tipo="segundo">
-    <nombre>Rillette de sardinas</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
+   <plato tipo="primero">
+    <nombre>Macarrones</nombre>
+    <precio>8 €</precio>
+    <descripcion>Macarrones fundidos con queso gratinado</descripcion>
+    <caracteristicas>
+      <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="primero">
+    <nombre>Canelones</nombre>
+    <precio>10 €</precio>
+    <descripcion>Canelones exquisitos y gratinados con salsa bechamel y ternera</descripcion>
+    <caracteristicas>
+      <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="primero">
+    <nombre>Lasaña</nombre>
+    <precio>15 €</precio>
+    <descripcion>Lasaña de ternera o espinacas con extra de queso</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
+  <!-- segundo -->
    <plato tipo="segundo">
-    <nombre>Rillette de sardinas</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-   <plato tipo="segundo">
-    <nombre>Rillette de sardinas</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-   <plato tipo="segundo">
-    <nombre>Rillette de sardinas</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-   <plato tipo="segundo">
-    <nombre>Rillette de sardinas</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
+    <nombre>Entrcot</nombre>
+    <precio>17 €</precio>
+    <descripcion>100 gramos acompañado con patatas</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
    <plato tipo="segundo">
-    <nombre>Rillette de sardinas</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
+    <nombre>Churrasco</nombre>
+    <precio>18 €</precio>
+    <descripcion>100 gramos acompañado con patatas</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
    <plato tipo="segundo">
-    <nombre>Rillette de sardinas</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
+    <nombre>Escalopa de pollo</nombre>
+    <precio>14 €</precio>
+    <descripcion>Acompañado de patatas y ensalada</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
    <plato tipo="segundo">
-    <nombre>Rillette de sardinas</nombre>
-    <precio>12 €</precio>
-    <descripcion></descripcion>
+    <nombre>Estofado de ternera</nombre>
+    <precio>16 €</precio>
+    <descripcion>Estofado con nuestra salsa de champiñones</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
+   <plato tipo="segundo">
+    <nombre>Rillette</nombre>
+    <precio>16 €</precio>
+    <descripcion>Corte de cerdo acompañado con patatas y ensalada</descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Parillada</nombre>
+    <precio>22 €</precio>
+    <descripcion>Parillada para 4 con todo tipo de carnes</descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Cerdo al horno</nombre>
+    <precio>19 €</precio>
+    <descripcion>Cerdo al horno acompañado con patatas</descripcion>
+    <caracteristicas>
+      <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+   <plato tipo="segundo">
+    <nombre>Arroz marinero</nombre>
+    <precio>18 €</precio>
+    <descripcion>Arroz con gambas, calamares, sepia, mejillones</descripcion>
+    <caracteristicas>
+      <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+  <!-- bebida -->
   <plato tipo="bebida">
-    <nombre>Coca-Cola</nombre>
+    <nombre>Refrescos</nombre>
     <precio>2,75€</precio>
-    <descripcion></descripcion>
+    <descripcion>Preguntar que clase de refrescos hay</descripcion>
+    <caracteristicas>
+      <item>Con gluten</item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="bebida">
+    <nombre>Sangria</nombre>
+    <precio>4,75€</precio>
+    <descripcion>Se venden por jarras</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
   <plato tipo="bebida">
-    <nombre>Fanta</nombre>
-    <precio>2,75€</precio>
-    <descripcion></descripcion>
+    <nombre>Cerveza</nombre>
+    <precio>2,50 €</precio>
+    <descripcion>Preguntar que clases de cervezas hay</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
   <plato tipo="bebida">
-    <nombre>Clara</nombre>
+    <nombre>zumos</nombre>
+    <precio>2,25€</precio>
+    <descripcion>Mora, mango, naranja, piña</descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+<!-- postre -->
+  <plato tipo="postre">
+    <nombre>Tarte tatin</nombre>
+    <precio>4 €</precio>
+    <descripcion>Tarta de fresa, chcolate o manzana</descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Paris-Brest</nombre>
+    <precio>5 €</precio>
+    <descripcion>El clasico postre frances que deleita con la explosion de sabores</descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Crepes Suzette</nombre>
+    <precio>3,50 €</precio>
+    <descripcion>Añadido con una bola de helado</descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Eclair</nombre>
+    <precio>4,50 €</precio>
+    <descripcion>Con extra de chocolate o crema de cachuete</descripcion>
+    <caracteristicas>
+      <item></item>
+    </caracteristicas>
+  </plato>
+  <plato tipo="postre">
+    <nombre>Macarons</nombre>
     <precio>3 €</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-  <plato tipo="bebida">
-    <nombre>Estrella Galicia</nombre>
-    <precio>3,25€</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-  <plato tipo="bebida">
-    <nombre>Agua</nombre>
-    <precio>2 €</precio>
-    <descripcion></descripcion>
+    <descripcion>Sbor fresa, vainilla i chocolate</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
   </plato>
   <plato tipo="postre">
-    <nombre>Yogurt</nombre>
-    <precio>2,50 €</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-  <plato tipo="postre">
-    <nombre>Helado</nombre>
-    <precio>3,10 €</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-  <plato tipo="postre">
-    <nombre>Natillas</nombre>
-    <precio>2,50 €</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-  <plato tipo="postre">
-    <nombre>Flan</nombre>
-    <precio>3,10 €</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-  <plato tipo="postre">
-    <nombre>Fruta</nombre>
-    <precio>1,80 €</precio>
-    <descripcion></descripcion>
-    <caracteristicas>
-      <item></item>
-    </caracteristicas>
-  </plato>
-  <plato tipo="postre">
-    <nombre>Café</nombre>
-    <precio>1,60 €</precio>
-    <descripcion></descripcion>
+    <nombre>Mont-Blanc</nombre>
+    <precio>4 €</precio>
+    <descripcion>Postre exquisito bañado en leche condensada</descripcion>
     <caracteristicas>
       <item></item>
     </caracteristicas>
